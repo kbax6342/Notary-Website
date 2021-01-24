@@ -1,0 +1,17 @@
+dateModified: 1611510761
+email:
+  fromEmail: k3vin.baxt3r@gmail.dom
+  fromName: 'Craft Practice'
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: 'Craft Practice'
+  schemaVersion: 3.5.13
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

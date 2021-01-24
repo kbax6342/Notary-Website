@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: aeeee809-f124-49ab-acd4-3fdedee50f76
+handle: homeTitle
+instructions: ''
+name: 'Home Title'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: ''
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
